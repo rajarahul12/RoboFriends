@@ -12,6 +12,6 @@ I have deloyed this website(https://robotfriends.surge.sh) using surge.sh a CLI 
 
 # Updates
 
-1. Added Progessive WebApp functionalities. Visit https://rajarahul12.github.io/robofriends/ from your mobile and there will be a popup asking Add to Home Screen . Press it and now you can use it as a app.
+1. Added Progessive WebApp functionalities. Visit https://rajarahul12.github.io/robofriends/ from your mobile and there will be a popup asking Add to Home Screen . Press it and now you can use it as a mobile app.
 
 2. Added test using Jest,Enzyme and Snapshot Testing.
